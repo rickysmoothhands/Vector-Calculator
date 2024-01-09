@@ -63,6 +63,8 @@ You will be graded based on how your code performs under the following condition
 
 ### Testing
 In order to ensure your code is correct before submission, these tests have been writen. If each one passes your code, then you should be good.
+
+#### Variables
 - a = [ -3, 2, 7 ]
 - b = [ 5, 0, -10 ]
 - c = [ 8, -12, 4 ]
