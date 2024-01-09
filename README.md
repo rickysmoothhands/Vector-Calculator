@@ -74,62 +74,45 @@ In order to ensure your code is correct before submission, these tests have been
 - b + c = [ 13, -12, -6 ]
 
 #### Dot Product
-- a * c = []
-- b * c = []
+- a * c = 
+- b * c = 
 
 #### Negation
 - -b = [ -5, 0, 10 ]
 - -c = [ -8, 12, -4 ]
 
 #### Cross Product
-a  c
-, , 
-a  b
-, , 
+- a x c = []
+- a x b = []
 
 #### Subtraction
-b - a
-, , 
-c - a
-, , 
+- b - a = []
+- c - a = []
 
 #### Angle Between
-a ∠ b
-x°   /   y rad
-b ∠ c
-x°   /   y rad
+- a ∠ b = x° or y rad
+- b ∠ c = x° or y rad
 
 #### Scaling
-a  4
-, , 
-c  -2
-, , 
+- a * 4 = []
+- c * -2 = []
 
 #### Projection
-projab
-, ,
-projbc
-, ,
+- projab = []
+- projbc = []
 
 #### Magnitude
-a
-
-b
+- |a| = 
+- |b| = 
 
 #### Reflection
-reflba
-, ,
-reflcb
-, ,
+- reflba = []
+- reflcb = []
 
 #### Normalization
-b
-, , 
-c
-, , 
+- b = 
+- c = 
 
 #### Equals
-a = b
-false
-c = c
-true
+- a = b: false
+- c = c: true
