@@ -33,7 +33,7 @@ Start by creating a C# class that represents a 3D Vector. This must have an X, a
 ---
 
 ### Grading Rubric
-You will be graded based on how your code performs under the following conditions. It will be checked against various tests.
+You will be graded based on how your code performs under the following conditions. It will be checked against various tests. It is recommended that you do some of your own testing before submission, more will be explained below.
 
 #### [150 pts.] Required
 - [10] Vector class with Constructor
@@ -58,3 +58,74 @@ You will be graded based on how your code performs under the following condition
 - [+10] Use of properties to make retrieving values easier.
 - [+10] Support for any sized Vector (2D, 3D, 4D, etc.)
 - [+10] Operator overrides for Add, Invert, Subtract, Scale, and Equals
+
+### Testing
+In order to ensure your code is correct before submission, these tests have been writen. If each one passes your code, then you should be good.
+a = [ -3, 2, 7 ]
+b = [ 5, 0, -10 ]
+c = [ 8, -12, 4 ]
+
+#### Addition
+a + b = [ 2, 2, -3 ]
+b + c = [ 13, -12, -6 ]
+
+#### Dot Product
+a * c = []
+b * c = []
+
+#### Negation
+-b = [ -5, 0, 10 ]
+-c = [ -8, 12, -4 ]
+
+#### Cross Product
+a  c
+, , 
+a  b
+, , 
+
+#### Subtraction
+b - a
+, , 
+c - a
+, , 
+
+#### Angle Between
+a ∠ b
+x°   /   y rad
+b ∠ c
+x°   /   y rad
+
+#### Scaling
+a  4
+, , 
+c  -2
+, , 
+
+#### Projection
+projab
+, ,
+projbc
+, ,
+
+#### Magnitude
+a
+
+b
+
+#### Reflection
+reflba
+, ,
+reflcb
+, ,
+
+#### Normalization
+b
+, , 
+c
+, , 
+
+#### Equals
+a = b
+false
+c = c
+true
