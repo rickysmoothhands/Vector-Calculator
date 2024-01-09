@@ -63,21 +63,21 @@ You will be graded based on how your code performs under the following condition
 
 ### Testing
 In order to ensure your code is correct before submission, these tests have been writen. If each one passes your code, then you should be good.
-a = [ -3, 2, 7 ]
-b = [ 5, 0, -10 ]
-c = [ 8, -12, 4 ]
+- a = [ -3, 2, 7 ]
+- b = [ 5, 0, -10 ]
+- c = [ 8, -12, 4 ]
 
 #### Addition
-a + b = [ 2, 2, -3 ]
-b + c = [ 13, -12, -6 ]
+- a + b = [ 2, 2, -3 ]
+- b + c = [ 13, -12, -6 ]
 
 #### Dot Product
-a * c = []
-b * c = []
+- a * c = []
+- b * c = []
 
 #### Negation
--b = [ -5, 0, 10 ]
--c = [ -8, 12, -4 ]
+- -b = [ -5, 0, 10 ]
+- -c = [ -8, 12, -4 ]
 
 #### Cross Product
 a  c
