@@ -33,6 +33,7 @@ Start by creating a C# class that represents a 3D Vector. This must have an X, a
 ---
 
 ### Grading Rubric
+You will be graded based on how your code performs under the following conditions. It will be checked against various tests.
 
 #### [150 pts.] Required
 - [10] Vector class with Constructor
