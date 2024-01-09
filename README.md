@@ -34,7 +34,9 @@ Start by creating a C# class that represents a 3D Vector. This must have an X, a
 
 ---
 
-### [150 pts.] Grading Rubric
+### Grading Rubric
+
+##### [150 pts.] Required
 - [10] Vector class with Constructor
 - [10] ToString() override
 - [10] const Zero & One vectors
@@ -51,7 +53,7 @@ Start by creating a C# class that represents a 3D Vector. This must have an X, a
 - [10] Reflection
 - [10] Equals
 
-### [+50 pts.] Extra Credit
+##### [+50 pts.] Extra Credit
 - [+10] Use of proper keywords and accessibility modifiers (readonly, const, public, private, etc.)
 - [+10] Null Checking or use of structs to avoid null possibility.
 - [+10] Use of properties to make retrieving values easier.
