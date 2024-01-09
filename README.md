@@ -10,16 +10,16 @@
 To create a C# class capable of representing Vectors and performing the Vector operations that we learn about in class.
 
 ## Learning Targets
-Identify common types of Vectors (Zero, Parallel, Unit, Opposite, Equal)
-Calculate basic Vector operations (Addition, Subtraction, & Scaling)
-Calculate the Negation of a Vector
-Calculate the Magnitude of a Vector
-Calculate the Normalized form of a Vector
-Calculate the Dot Product of two Vectors
-Calculate the Cross Product of two Vectors
-Calculate the Angle between two Vectors
-Calculate the Projection of one Vector onto another
-Calculate the Reflection of one Vector across another
+- Identify common types of Vectors (Zero, Parallel, Unit, Opposite, Equal)
+- Calculate basic Vector operations (Addition, Subtraction, & Scaling)
+- Calculate the Negation of a Vector
+- Calculate the Magnitude of a Vector
+- Calculate the Normalized form of a Vector
+- Calculate the Dot Product of two Vectors
+- Calculate the Cross Product of two Vectors
+- Calculate the Angle between two Vectors
+- Calculate the Projection of one Vector onto another
+- Calculate the Reflection of one Vector across another
 
 ## Instructions
 Start by creating a C# class that represents a 3D Vector. This must have an X, a Y, and a Z (think about what data type best represents these: An int? A float? A string? A bool? Could you use an array for this?). After you do this, you must create a constructor that creates a Vector given the values. Then, you must override the ToString() method to allow the user to print the Vector using the format “[x, y, z]”. After you confirm that this works, create methods for each of the math concepts we learned in class. The following are cases you must make methods for (the grading/milestones). There are a total of 12 methods you need to implement.
