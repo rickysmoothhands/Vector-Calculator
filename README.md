@@ -16,16 +16,14 @@ To create a C# class capable of representing Vectors and performing the Vector o
 ---
 
 ### Learning Targets
-- Identify common types of Vectors (Zero, Parallel, Unit, Opposite, Equal)
-- Calculate basic Vector operations (Addition, Subtraction, & Scaling)
-- Calculate the Negation of a Vector
-- Calculate the Magnitude of a Vector
-- Calculate the Normalized form of a Vector
-- Calculate the Dot Product of two Vectors
-- Calculate the Cross Product of two Vectors
-- Calculate the Angle between two Vectors
-- Calculate the Projection of one Vector onto another
-- Calculate the Reflection of one Vector across another
+- Recognize vector quantities as having both magnitude and direction. Represent vector quantities by directed line segments, and use appropriate symbols for vectors and their magnitudes (e.g., v, |v|, ||v||, v).
+- Find the components of a vector by subtracting the coordinates of an initial point from the coordinates of a terminal point.
+- Solve problems involving velocity and other quantities that can be represented by vectors.
+- Add vectors end-to-end, component-wise, and by the parallelogram rule. Understand that the magnitude of a sum of two vectors is typically not the sum of the magnitudes.
+- Given two vectors in magnitude and direction form, determine the magnitude and direction of their sum.
+- Understand vector subtraction v – w as v + (–w), where –w is the additive inverse of w, with the same magnitude as w and pointing in the opposite direction. Represent vector subtraction graphically by connecting the tips in the appropriate order, and perform vector subtraction component-wise.
+- Represent scalar multiplication graphically by scaling vectors and possibly reversing their direction; perform scalar multiplication component-wise, e.g., as c(vx, vy) = (cvx, cvy).
+- Compute the magnitude of a scalar multiple cv using ||cv|| = |c|v. Compute the direction of cv knowing that when |c|v ≠ 0, the direction of cv is either along v (for c > 0) or against v (for c < 0).
 
 ---
 
