@@ -1,4 +1,4 @@
-# Vector-Calculator
+# Vector Calculator - Handout
 
 ### Points
 150 (+50 pt. Extra Credit Opportunity)
