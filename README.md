@@ -59,6 +59,8 @@ You will be graded based on how your code performs under the following condition
 - [+10] Support for any sized Vector (2D, 3D, 4D, etc.)
 - [+10] Operator overrides for Add, Invert, Subtract, Scale, and Equals
 
+---
+
 ### Testing
 In order to ensure your code is correct before submission, these tests have been writen. If each one passes your code, then you should be good.
 a = [ -3, 2, 7 ]
