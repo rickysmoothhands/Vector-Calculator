@@ -65,54 +65,54 @@ You will be graded based on how your code performs under the following condition
 In order to ensure your code is correct before submission, these tests have been writen. If each one passes your code, then you should be good.
 
 #### Variables
-- a = [ -3, 2, 7 ]
-- b = [ 5, 0, -10 ]
-- c = [ 8, -12, 4 ]
+- a = **[ -3, 2, 7 ]**
+- b = **[ 5, 0, -10 ]**
+- c = **[ 8, -12, 4 ]**
 
 #### Addition
-- a + b = [ 2, 2, -3 ]
-- b + c = [ 13, -12, -6 ]
+- a + b = **[ 2, 2, -3 ]**
+- b + c = **[ 13, -12, -6 ]**
 
 #### Dot Product
-- a * c = 
-- b * c = 
+- a * c = **x**
+- b * c = **y**
 
 #### Negation
-- -b = [ -5, 0, 10 ]
-- -c = [ -8, 12, -4 ]
+- -b = **[ -5, 0, 10 ]**
+- -c = **[ -8, 12, -4 ]**
 
 #### Cross Product
-- a x c = []
-- a x b = []
+- a x c = **[]**
+- a x b = **[]**
 
 #### Subtraction
-- b - a = []
-- c - a = []
+- b - a = **[]**
+- c - a = **[]**
 
 #### Angle Between
-- a ∠ b = x° or y rad
-- b ∠ c = x° or y rad
+- a ∠ b = **x° or y rad**
+- b ∠ c = **x° or y rad**
 
 #### Scaling
-- a * 4 = []
-- c * -2 = []
+- a * 4 = **[]**
+- c * -2 = **[]**
 
 #### Projection
-- projab = []
-- projbc = []
+- proj ab = **[]**
+- proj bc = **[]**
 
 #### Magnitude
-- |a| = 
-- |b| = 
+- |a| = **x**
+- |b| = **y**
 
 #### Reflection
-- reflba = []
-- reflcb = []
+- refl ba = **[]**
+- refl cb = **[]**
 
 #### Normalization
-- b = 
-- c = 
+- b = **[]**
+- c = **[]**
 
 #### Equals
-- a = b: false
-- c = c: true
+- a = b: **false**
+- c = c: **true**
