@@ -32,6 +32,8 @@ To create a C# class capable of representing Vectors and performing the Vector o
 ### Instructions
 Start by creating a C# class that represents a 3D Vector. This must have an X, a Y, and a Z (think about what data type best represents these: An int? A float? A string? A bool? Could you use an array for this?). After you do this, you must create a constructor that creates a Vector given the values. Then, you must override the ToString() method to allow the user to print the Vector using the format “[x, y, z]”. After you confirm that this works, create methods for each of the math concepts we learned in class. The following are cases you must make methods for (the grading/milestones). There are a total of 12 methods you need to implement.
 
+---
+
 ### [150 pts.] Grading Rubric
 - [10] Vector class with Constructor
 - [10] ToString() override
