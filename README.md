@@ -28,7 +28,7 @@ To create a C# class capable of representing Vectors and performing the Vector o
 ---
 
 ### Instructions
-Start by creating a C# class that represents a 3D Vector. This must have an X, a Y, and a Z (think about what data type best represents these: An int? A float? A string? A bool? Could you use an array for this?). After you do this, you must create a constructor that creates a Vector given the values. Then, you must override the ToString() method to allow the user to print the Vector using the format “[x, y, z]”. After you confirm that this works, create methods for each of the math concepts we learned in class. The following are cases you must make methods for (the grading/milestones). There are a total of 12 methods you need to implement.
+Start by creating a C# class that represents a 3D Vector. This must have an X, a Y, and a Z (think about what data type best represents these: An int? A float? A string? A bool? Could you use an array for this?). After you do this, you must create a constructor that creates a Vector given the values. Then, you must override the ToString() method to allow the user to print the Vector using the format “[x, y, z]”. After you confirm that this works, create methods for each of the math concepts we learned in class. The following are cases you must make methods for (the grading/milestones). There are a total of 12 methods you need to implement. If at any point you need help, please ask another student before asking me.
 
 ---
 
@@ -61,58 +61,5 @@ You will be graded based on how your code performs under the following condition
 
 ---
 
-### Testing
-In order to ensure your code is correct before submission, these tests have been writen. If each one passes your code, then you should be good.
-
-#### Variables
-- a = **[ -3, 2, 7 ]**
-- b = **[ 5, 0, -10 ]**
-- c = **[ 8, -12, 4 ]**
-
-#### Addition
-- a + b = **[ 2, 2, -3 ]**
-- b + c = **[ 13, -12, -6 ]**
-
-#### Dot Product
-- a * c = **x**
-- b * c = **y**
-
-#### Negation
-- -b = **[ -5, 0, 10 ]**
-- -c = **[ -8, 12, -4 ]**
-
-#### Cross Product
-- a x c = **[]**
-- a x b = **[]**
-
-#### Subtraction
-- b - a = **[]**
-- c - a = **[]**
-
-#### Angle Between
-- a ∠ b = **x° or y rad**
-- b ∠ c = **x° or y rad**
-
-#### Scaling
-- a * 4 = **[]**
-- c * -2 = **[]**
-
-#### Projection
-- proj ab = **[]**
-- proj bc = **[]**
-
-#### Magnitude
-- |a| = **x**
-- |b| = **y**
-
-#### Reflection
-- refl ba = **[]**
-- refl cb = **[]**
-
-#### Normalization
-- b = **[]**
-- c = **[]**
-
-#### Equals
-- a = b: **false**
-- c = c: **true**
+### Success Criteria
+To ensure your code is correct before submission, tests have been provided in your code. You can have peace of mind knowing that the tests reflect the grade you will receive when submitting the assignment, no surprises. You will know you are successful in each category of Vector math when each respective test is passed.
