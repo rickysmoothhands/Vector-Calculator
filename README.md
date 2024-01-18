@@ -44,8 +44,13 @@ Your grade will be determined based on how well your code passes a number of tes
     - [10] Scaling
 - Compute the magnitude of a scalar multiple cv using ||cv|| = |c|v. Compute the direction of cv knowing that when |c|v ≠ 0, the direction of cv is either along v (for c > 0) or against v (for c < 0).
 
-#### [50 pts.] Stretch Goals
-
+#### [+50 pts.] Stretch Goals
+- [+10] Use of proper keywords and accessibility modifiers (readonly, const, public, private, etc.)
+- [+10] Null Checking or use of structs to avoid null possibility.
+- [+10] Use of properties to make retrieving values easier.
+- [+10] Support for any sized Vector (2D, 3D, 4D, etc.)
+- [+10] Operator overrides for Add, Invert, Subtract, Scale, and Equals
+- 
 ---
 
 
@@ -57,10 +62,3 @@ Your grade will be determined based on how well your code passes a number of tes
 - [10] Projection
 - [10] Reflection
 - [10] Equals
-
-#### [+50 pts.] Beyond Mastery
-- [+10] Use of proper keywords and accessibility modifiers (readonly, const, public, private, etc.)
-- [+10] Null Checking or use of structs to avoid null possibility.
-- [+10] Use of properties to make retrieving values easier.
-- [+10] Support for any sized Vector (2D, 3D, 4D, etc.)
-- [+10] Operator overrides for Add, Invert, Subtract, Scale, and Equals
