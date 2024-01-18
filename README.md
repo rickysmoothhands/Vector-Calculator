@@ -35,7 +35,7 @@ Start by creating a C# class that represents a 3D Vector. This must have an X, a
 ### Grading Rubric
 You will be graded based on how your code performs under the following conditions. It will be checked against various tests. It is recommended that you do some of your own testing before submission, more will be explained below.
 
-#### [150 pts.] Required
+#### [150 pts.] Mastery Goals
 - [10] Vector class with Constructor
 - [10] ToString() override
 - [10] const Zero & One vectors
@@ -52,7 +52,7 @@ You will be graded based on how your code performs under the following condition
 - [10] Reflection
 - [10] Equals
 
-#### [+50 pts.] Extra Credit
+#### [+50 pts.] Beyond Mastery
 - [+10] Use of proper keywords and accessibility modifiers (readonly, const, public, private, etc.)
 - [+10] Null Checking or use of structs to avoid null possibility.
 - [+10] Use of properties to make retrieving values easier.
