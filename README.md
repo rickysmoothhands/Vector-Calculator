@@ -15,7 +15,7 @@ To create a C# class capable of representing Vectors and performing the Vector o
 
 ---
 ### Instructions
-Start by creating a C# class that represents a 3D Vector. This must have an X, a Y, and a Z (think about what data type best represents these: An int? A float? A string? A bool? Could you use an array for this?). After you do this, you must create a constructor that creates a Vector given the values. Then, you must override the ToString() method to allow the user to print the Vector using the format “[x, y, z]”. After you confirm that this works, create methods for each of the math concepts we learned in class. The following are cases you must make methods for (the grading/milestones). There are a total of 12 methods you need to implement. If at any point you need help, please ask another student before asking me. Finally, each function must have comments explaining what's going on, as well as an example of the math concept in play.
+Start by creating a C# class that represents a 3D Vector. This must have an X, a Y, and a Z (think about what data type best represents these: An int? A float? A string? A bool? Could you use an array for this?). After you do this, you must create a constructor that creates a Vector given the values. Then, you must override the ToString() method to allow the user to print the Vector using the format “[x, y, z]”. After you confirm that this works, create functions for each of the math concepts we learned about in class. If at any point you need help, please ask another student before asking me. Finally, each function must have comments explaining what's going on, as well as an example of the math concept in play.
 
 ---
 
@@ -50,15 +50,11 @@ Your grade will be determined based on how well your code passes a number of tes
 - [+10] Use of properties to make retrieving values easier.
 - [+10] Support for any sized Vector (2D, 3D, 4D, etc.)
 - [+10] Operator overrides for Add, Invert, Subtract, Scale, and Equals
-- 
----
 
 
-- [10] Magnitude
 - [10] Normalization
 - [10] Dot Product
 - [10] Cross Product
 - [10] Angle Between
 - [10] Projection
 - [10] Reflection
-- [10] Equals
