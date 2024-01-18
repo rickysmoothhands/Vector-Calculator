@@ -20,7 +20,7 @@ Start by creating a C# class that represents a 3D Vector. This must have an X, a
 ---
 
 ### Grading Rubric - Learning Targets & Success Criteria
-Your grade will be determined based on how well your code passes a number of tests. Each test that it passes is worth 2 points, with each test falling under a different category of Learning Targets for the given unit. There will be 5 tests per function, so expect negative numbers and decimals too, not just positive integers. You may test your code any number of times before submission to get a good estimate of your grade. Learning Targets are split into 2 categories, Mastery Goals and Stretch Goals. Once you have completed all the Mastery Goals, you are expected to work on the Stretch Goals. Stretch Goals are worth extra credit points.
+Your grade will be determined based on how well your code passes a number of tests. Each test that it passes is worth 2 points, with each test falling under a different category of Learning Targets for the given unit. There will be 5 tests per function, so expect negative numbers and decimals too, not just positive integers. You may test your code any number of times before submission to figure out what you need to improve on before the project is due. Learning Targets are split into 2 categories, Mastery Goals and Stretch Goals. Once you have completed all the Mastery Goals, you are expected to work on the Stretch Goals. Stretch Goals are worth extra credit points.
 
 #### [150 pts.] Mastery Goals
 - Recognize vector quantities as having both magnitude and direction. Represent vector quantities by directed line segments, and use appropriate symbols for vectors and their magnitudes (e.g., v, |v|, ||v||, v).
