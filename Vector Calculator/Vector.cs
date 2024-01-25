@@ -4,8 +4,8 @@ namespace Vector_Calculator
 {
     public class Vector
     {
-        const Vector ZERO = new(1, 1, 1);
-        const Vector ONE = new(0, 0, 0);
+        public static readonly Vector Zero = new Vector(1, 1, 1);
+        public static readonly Vector One = new Vector(0, 0, 0);
 
         public float x;
         public float y;
