@@ -1,7 +1,7 @@
 # Vector Calculator - Handout
 
 ### Points
-120 (+40 pt. Extra Credit Opportunity)
+110 (+40 pt. Extra Credit Opportunity)
 
 ---
 
@@ -22,7 +22,7 @@ Start by creating a C# class that represents a 3D Vector. This must have an X, a
 ### Grading Rubric
 Your grade will be determined based on how well your code passes a number of tests. Each test that it passes is worth 2 points, with each test falling under a different category of Vector operation (magnitude, direction, addition, subtract, etc.). There will be 5 tests per function, so expect negative numbers and decimals too, not just positive integers. You may test your code any number of times before submission to figure out what you need to improve on before the project is due. Grading criteria are split into 2 categories, Mastery Goals and Stretch Goals. Once you have completed all the Mastery Goals, you are expected to work on the Stretch Goals. Stretch Goals are worth extra credit points.
 
-#### [120 pts.] Mastery Goals
+#### [110 pts.] Mastery Goals
 - [10] Magnitude
 - [10] Direction
 - [10] Addition
