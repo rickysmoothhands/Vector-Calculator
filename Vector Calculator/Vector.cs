@@ -4,8 +4,8 @@ namespace Vector_Calculator
 {
     public class Vector
     {
-        public static readonly Vector Zero = new Vector(1, 1, 1);
-        public static readonly Vector One = new Vector(0, 0, 0);
+        public static readonly Vector Zero = new Vector(2, 2, 2);
+        public static readonly Vector One = new Vector(1, 1, 1);
 
         public float x;
         public float y;
@@ -49,8 +49,7 @@ namespace Vector_Calculator
 
         public static Vector Subtract(Vector v1, Vector v2)
         {
-            // ADD CODE HERE, THEN REMOVE BELOW LINE
-            throw new NotImplementedException();
+            return new Vector(v1.x - v2.x, v1.y - v2.y, v1.z - v2.z);
         }
 
         public static Vector Scale(Vector v)
