@@ -6,4 +6,8 @@
     <RootNamespace>Vector_Calculator</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="Program.txt" />
+  </ItemGroup>
+
 </Project>
